@@ -5,7 +5,7 @@
 	logallrefupdates = true
 	precomposeunicode = true
 [remote "origin"]
-	url = git@github.com:puppetlabs/classroom-example.git
+	url = https://github.com/puppetlabs-education/classroom-example.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
